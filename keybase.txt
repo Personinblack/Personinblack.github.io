@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/menfie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://personinblack.github.io
+  * I am menfie (https://keybase.io/menfie) on keybase.
+  * I have a public key ASCR4oAQsVNvh12PhXUKUdhwfbNSWmmclgoup78KXVyofQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012047ff755ee031dee605ab82a0de3a3877cd2a6de39b65994c346eda687e8a97b80a",
+      "host": "keybase.io",
+      "kid": "012091e28010b1536f875d8f85750a51d8707db3525a699c960a2ea7bf0a5d5ca87d0a",
+      "uid": "e019a68d65a53106855f9cbb75178a19",
+      "username": "menfie"
+    },
+    "merkle_root": {
+      "ctime": 1630533851,
+      "hash": "582e5b6a7851df24bf78a6e64a29d53d9d8ae0fadbcd138c6c9dd833308a5955df2f377cc434115452d332f6cba207f274eb4b4bfd3cf3232e9d822d241a7ad3",
+      "hash_meta": "7d00afa5d55d91f4e73c93f31bfd3774fbf74ac73c81b844f885c5575e2fe6cc",
+      "seqno": 20682592
+    },
+    "service": {
+      "entropy": "k7hhn4x82brdy/807dOv/PJy",
+      "hostname": "personinblack.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.1"
+  },
+  "ctime": 1630533885,
+  "expire_in": 504576000,
+  "prev": "e56a80bee4fa130e7ed34d2322700c1119322c7d0702a43aedf4cdf3be0cf940",
+  "seqno": 66,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkeKAELFTb4ddj4V1ClHYcH2zUlppnJYKLqe/Cl1cqH0Kp3BheWxvYWTESpcCQsQg5WqAvuT6Ew5+000jInAMERkyLH0HAqQ67fTN874M+UDEIDHGIXHC1pG/ijcteD4pHkwKwHjfr2e1kKwuUBRyXinNAgHCo3NpZ8RAf4yIZg4Uw3N4T6ipa2S1eIDzKneNXzVomNK9fwx2NsSnS/CJF7+W/NHMQm9EajlPVa0k69rlRMLOurFj7RV7AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF5DosPiwci+DhXkQUxbUD62ipAhirJmExTW+zh1bzQ9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/menfie
+
+==================================================================
